@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Fylo landing page with two column layout solution](https://sunil-sharma-999.github.io/Fylo-landing-page-with-two-column-layout-solution/)
 
 ## My process
 
@@ -58,6 +58,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [Sunil Sharma](https://github.com/sunil-sharma-999/)
+- Frontend Mentor - [@sunil-sharma-999](https://www.frontendmentor.io/profile/sunil-sharma-999)
+- Twitter - [@yourusername](https://www.twitter.com/sharmasunil999)
