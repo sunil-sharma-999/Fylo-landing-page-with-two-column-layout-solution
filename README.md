@@ -1,3 +1,6 @@
+# Live Site
+- Live Site URL: [Fylo landing page with two column layout solution](https://sunil-sharma-999.github.io/Fylo-landing-page-with-two-column-layout-solution/)
+
 # Fylo landing page with two column layout solution
 
 This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -7,7 +10,6 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -41,9 +43,6 @@ Users should be able to:
 ![valid](./screenshots/error.png)
 ![valid](./screenshots/error1.png)
 
-### Links
-
-- Live Site URL: [Fylo landing page with two column layout solution](https://sunil-sharma-999.github.io/Fylo-landing-page-with-two-column-layout-solution/)
 
 ## My process
 
