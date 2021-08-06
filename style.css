@@ -18,10 +18,10 @@
 }
 body {
   background-color: var(--LightGrayishBlue);
-  overflow-x: hidden;
 }
 
 /* global */
+
 .text-wrap p {
   padding: 0.5rem 1.2rem;
   text-align: center;
@@ -88,7 +88,7 @@ input:focus {
   margin: auto;
 }
 .img-wrap {
-  width: 100vw;
+  width: 100%;
   display: flex;
   justify-content: center;
 }
@@ -120,6 +120,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 2rem;
+  width: 100vw;
   max-width: 1440px;
   margin: auto;
 }
@@ -411,7 +412,7 @@ footer .link2 {
   .page2 .link-wrap {
     margin: 0;
   }
- .page2 .img-wrap {
+  .page2 .img-wrap {
     grid-area: img2;
     width: max-content;
     align-self: flex-start;
