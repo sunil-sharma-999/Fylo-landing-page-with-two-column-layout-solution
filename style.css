@@ -18,6 +18,15 @@
 }
 body {
   background-color: var(--LightGrayishBlue);
+  overflow-x: hidden;
+}
+
+
+.wrap,
+header {
+  max-width: 1440px;
+  margin:auto;
+
 }
 
 /* global */
